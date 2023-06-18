@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+  @apply my-4 text-neutral-300 leading-relaxed tracking-wide;
+}
